@@ -36,7 +36,7 @@ public class Menu {
                 break;
             }
             default:
-                System.out.println("Możesz spróbować nie być zjebany?");
+                System.out.println("Możesz spróbować nie być zjebany? Plox");
                 pliki = new PlikiJson();
                 break;
         }
