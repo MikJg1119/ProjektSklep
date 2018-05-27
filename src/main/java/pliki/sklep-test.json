@@ -1,0 +1,25 @@
+{
+  "produkty":[
+    {
+      "Typ": "komputer",
+      "id": 1,
+      "cena": 23.1,
+      "nazwa": "holololo",
+      "generatorID": 0,
+      "marka":"3 Rzesza",
+      "ram": 8
+    },
+    {
+      "Typ": "dron",
+      "id": 2,
+      "nazwa": "holocopter",
+      "cena":666,
+      "zasieg": 3
+    }
+
+
+
+
+
+  ]
+}
